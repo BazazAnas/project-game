@@ -2,7 +2,7 @@
 
 An interactive pattern memory game where players must remember and repeat an increasingly complex sequence of colored tiles and sounds.
 
-##🕹️ How to Play
+## 🕹️ How to Play
 
 1. Start the game.
 
